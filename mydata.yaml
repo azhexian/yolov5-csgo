@@ -1,0 +1,11 @@
+
+train: data\mydata\images\train  # train images (relative to 'path') 128 images
+val: data\mydata\images\val
+
+# Classes
+nc: 4  # number of classes
+names: ['ct','t','t_head','ct_head',]  # class names
+
+
+# Download script/URL (optional)
+#download: https://ultralytics.com/assets/coco128.zip
