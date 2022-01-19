@@ -14,4 +14,6 @@ val文件的图片就在train里随便找几张就行，labels的val文件夹下
 模型太大无法上传，自己训练吧！
 mydata.yaml位置在：![屏幕截图 2022-01-19 114643](https://user-images.githubusercontent.com/65958464/150060408-64e2b5b0-67db-4ece-8581-de7bcbd8342f.jpg)
 我的图片，标签在：https://cvat.org/projects/24343?page=1
+点击这里导出数据集![屏幕截图 2022-01-19 120024](https://user-images.githubusercontent.com/65958464/150061630-611043bc-6c7c-4097-953c-37380ab6d9d9.jpg)
+勾选这里下载标签和图片![屏幕截图 2022-01-19 115002](https://user-images.githubusercontent.com/65958464/150061634-777e8557-13f4-4e65-a5d0-723d77f20316.jpg)
 
